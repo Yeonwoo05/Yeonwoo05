@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Yeonwoo&fontSize=70)
 
-### Hi there 👋
+### Hi guys! 👋
+
+<img alt="C" src="https://img.shields.io/badge/c-D3AFFF.svg?style=for-the-badge&logo=c&logoColor=white"/> <img alt="C#" src="https://img.shields.io/badge/c%23-BD87FF.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/python-518BFF.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="Java" src="https://img.shields.io/badge/java-FCBF5D.svg?style=for-the-badge&logo=java&logoColor=white"/> <img alt="HTML5" src="https://img.shields.io/badge/html5-E26C5D.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeonwoo05&&show_icons=true&theme=default)
 <!--
 **Yeonwoo05/Yeonwoo05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
