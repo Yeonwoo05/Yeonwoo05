@@ -1,5 +1,7 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Yeonwoo&fontSize=70)
 
+### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeonwoo05&&show_icons=true&theme=default)
 <!--
 **Yeonwoo05/Yeonwoo05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
